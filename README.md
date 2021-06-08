@@ -16,7 +16,10 @@
  - relu,      SCORE = 94.7%
  - linear, learning_rate=0.002,      SCORE = 77.75%
  - tanh,      SCORE = 93.85%
- 
+
+ Furthur explainations are present in the notebook itself as comments.
+ Predict proba, predict, score and TSNE plotting functionality also present.
+
  I am also attaching the Loss per Epoch graphs for all the above mentioned calculations:
 
  Sigmoid - 
